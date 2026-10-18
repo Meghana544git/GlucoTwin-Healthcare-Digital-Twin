@@ -10,7 +10,7 @@
 | College / Institution | `Prasad V. Potluri Siddhartha Institute of Technology` |
 | Team leader | `Yara Meghana` |
 | Member 2 | `Manogna Yara` |
-| Demo video (unlisted YouTube) | `[PASTE LINK]` |
+| Demo video (unlisted YouTube) | `https://youtu.be/mh27ElELHrE` |
 
 ---
 
