@@ -11,6 +11,7 @@
 | Team leader | `Yara Meghana` |
 | Member 2 | `Manogna Yara` |
 | Demo video (unlisted YouTube) | `https://youtu.be/ltHecX_IwLU` |
+| Live Link | `https://glucotwin-healthcare.streamlit.app/` |
 
 ---
 
